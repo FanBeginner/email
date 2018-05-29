@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="Email_database"/>
+    <version value="1"/>
+    <list>
+        <mapping class="com.example.email.bean.EmailBean" />
+        <mapping class="com.example.email.bean.MessageBean"/>
+        <mapping class="com.example.email.bean.Attachment" />
+    </list>
+</litepal>
