@@ -1,5 +1,5 @@
 # email
-<div align="center">
+<div>
   <img src="https://github.com/wangzhengtai/email/blob/master/images/S90309-002139.jpg" width="180" height="320">
   <img src="https://github.com/wangzhengtai/email/blob/master/images/S90309-002145.jpg" width="180" height="320">
   <img src="https://github.com/wangzhengtai/email/blob/master/images/S90309-003130.jpg" width="180" height="320">
